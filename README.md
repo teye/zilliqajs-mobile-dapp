@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/6906654/127317857-38f19260-ec5e-4f7c-81b5-8a154afde082.png)
 
-This is a sample mobile dapp project to demonstrate the usage of `ZilliqaJS` sdk to retrieve a wallet balance and also sending out a payment transaction.
+This is a sample mobile dapp project to demonstrate the usage of `ZilliqaJS` sdk to retrieve a wallet balance and also send out a payment transaction.
 
 ### Problem
 By default, react native doesn't recognize internal node modules such as `crypto`, `fs` etc. This becomes an issue if a react-native project has added a dependencies which itself require node modules to be used in the "normal expected" manner. See https://gist.github.com/parshap/e3063d9bf6058041b34b26b7166fd6bd for more information.
