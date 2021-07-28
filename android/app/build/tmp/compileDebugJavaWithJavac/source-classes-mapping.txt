@@ -1,0 +1,14 @@
+com/error/MainApplication.java
+ com.zilapp.MainApplication
+ com.zilapp.MainApplication$1
+com/error/ReactNativeFlipper.java
+ com.zilapp.ReactNativeFlipper
+ com.zilapp.ReactNativeFlipper$1
+ com.zilapp.ReactNativeFlipper$2
+ com.zilapp.ReactNativeFlipper$2$1
+com/zilapp/BuildConfig.java
+ com.zilapp.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/error/MainActivity.java
+ com.zilapp.MainActivity
